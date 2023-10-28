@@ -2,6 +2,10 @@
 
 This repository contains the Local Derivative Patterns as a Deep Learning layer implemented in the paper. The example on LFW - Labeled Faces in the Wild dataset compares a model with LDP layers and a baseline CNN model. 
 
+LDP layer can be used from source or can be installed as package using:
+
+            pip install tflocalpattern
+
 [Kaggle] (https://www.kaggle.com/code/devrimakgn/a-dl-model-with-ldp-layers-face-recognition)
 
 ## Example evaluation on LFW - Labeled Faces in the Wild dataset: ldp_test.py
