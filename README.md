@@ -2,7 +2,7 @@
 
 This repository contains the Local Derivative Patterns as a Deep Learning layer implemented in the paper. The example on LFW - Labeled Faces in the Wild dataset compares a model with LDP layers and a baseline CNN model. 
 
-LDP layer can be used from source or can be installed as package using:
+LDP layer can be used from the source or can be installed as a package using the project:
 
             pip install tflocalpattern
 
