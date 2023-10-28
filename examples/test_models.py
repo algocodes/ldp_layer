@@ -5,7 +5,8 @@ Example test models
 """
 from tensorflow.keras import layers, optimizers
 from tensorflow.keras.models import Model
-from pattern.layers import LDP
+#from pattern.layers import LDP
+from tflocalpattern.layers import LDP
 
 
 # 1- Model with ldp layer ----------------------------------------------------
